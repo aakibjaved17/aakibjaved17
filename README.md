@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React js,Next js**
 
-- 🤝 I’m looking for frontend developeron **Intership**
+- 🤝 I’m looking for frontend developer **Intership**
 
 - 💬 Ask me about **HTML CSS JAVASCRIPT REACT JS**
 
